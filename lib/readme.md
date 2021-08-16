@@ -43,7 +43,7 @@ after start it you need to scan the qr
 
 ### Contact me
 
-- [TELEGRAM](https://t.me/justpiple)
+- [TELEGRAM](#)
 - [WHATSAPP](http://wa.me/919106196230)
 - [GROUP CHAT WHATSAPP](#)
 
