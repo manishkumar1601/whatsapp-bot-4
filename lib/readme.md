@@ -6,23 +6,23 @@
  <p>
   <img src ="https://img.shields.io/badge/npm-v7.20.3-green.svg" />
   <img src="https://img.shields.io/badge/node-%3E=16.6.1-darkgreen.svg" />
-   <a href="https://github.com/manishkumar1601/whatsapp-bot-4/commit-activity" target="_blank">
+   <a href="https://github.com/justpiple/whatsapp-bot/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
 </p>
-<a href="#"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
  
 </div>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/manishkumar1601/whatsapp-bot-4/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/justpiple/whatsapp-bot/)
 
-[![Run on Repl.it](https://repl.it/badge/github/manishkumar1601/whatsapp-bot-4)](https://repl.it/github/manishkumar1601/whatsapp-bot-4)
+[![Run on Repl.it](https://repl.it/badge/github/justpiple/whatsapp-bot)](https://repl.it/github/justpiple/whatsapp-bot)
 
 
 ### Install ⬇️
 
 ```bash
-> git clone https://github.com/manishkumar1601/whatsapp-bot-4/
+> git clone https://github.com/justpiple/whatsapp-bot/
 > cd whatsapp-bot
 > npm i
 ```
@@ -33,19 +33,24 @@
 > apt-get install -y nodejs git
 ```
 
+#### Change `config.json` 
+##### Register in <b>[zeks.xyz](https://zeks.xyz)</b> to get apiKey then enter to zeksKey in `config.json`
 ### Start ✅
 
 ```bash
-> npm start
+> npm start [session name] [--options]
 ```
+`options`
+ `port`
+--port [port number]
 
 after start it you need to scan the qr
-
+#### Session name and options is optional
 ### Contact me
 
-- [TELEGRAM](#)
-- [WHATSAPP](http://wa.me/919106196230)
-- [GROUP CHAT WHATSAPP](#)
+- [TELEGRAM](https://t.me/justpiple)
+- [WHATSAPP](http://wa.me/62813309603730)
+- [GROUP CHAT WHATSAPP](https://chat.whatsapp.com/EV2o7Y4C2XNDT5AAQPZjqt)
 
 
 ## 🙏 Special Thanks to
